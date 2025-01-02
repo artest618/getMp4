@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.vscode
+jsconfig.json
+yarn-error.log
+yarn.lock
+.yarnclean
+*.yml
+.idea
+*iml
+files
+files_doc
+ts_files
+*.m3u8
+curl.json
